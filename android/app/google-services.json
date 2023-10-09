@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "779166605135",
+    "project_id": "ecommercadmine",
+    "storage_bucket": "ecommercadmine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779166605135:android:4669b2cc573e6115d16f3a",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPPFTqVWNravbiZMNOuxru37kOZwhcZvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779166605135:android:8770086ba0e12867d16f3a",
+        "android_client_info": {
+          "package_name": "com.example.shoppygo_adminepanel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPPFTqVWNravbiZMNOuxru37kOZwhcZvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
